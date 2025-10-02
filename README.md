@@ -1,6 +1,6 @@
 # 🏎️ Formula 1 - Banco de Dados SQL (Temporada 2025)
 
-> Projeto completo de banco de dados relacional inspirado na temporada de Fórmula 1 de 2025. Desenvolvido em MySQL com foco em aprendizado, portfólio e boas práticas de modelagem e SQL avançado.
+Projeto completo de banco de dados relacional inspirado na temporada de Fórmula 1 de 2025. Desenvolvido em MySQL com foco em aprendizado, portfólio e boas práticas de modelagem e SQL avançado.
 
 ---
 
